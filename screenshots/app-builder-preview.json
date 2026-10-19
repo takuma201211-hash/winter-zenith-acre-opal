@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "地層と天気のドリル",
+      "hasCanvas": false,
+      "bodyTextLen": 238,
+      "bodyTextHash": "8b920953868ccf340c8a5f5ae88ade91c5b7df7eeba1fd104fba1206f6c3bf36",
+      "bodyTextPrefix": "中学理科 地層と天気のドリル 化石、地層、大気、天気。11枚のプリントの範囲から、その場で新しい問題を作ります。同じ問題を繰り返",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "地層と天気のドリル",
+      "hasCanvas": false,
+      "bodyTextLen": 238,
+      "bodyTextHash": "8b920953868ccf340c8a5f5ae88ade91c5b7df7eeba1fd104fba1206f6c3bf36",
+      "bodyTextPrefix": "中学理科 地層と天気のドリル 化石、地層、大気、天気。11枚のプリントの範囲から、その場で新しい問題を作ります。同じ問題を繰り返",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
